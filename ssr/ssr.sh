@@ -26,7 +26,7 @@ echo -e "${NC}${LIGHT}Telegram : https://t.me/Akbar218"
 exit 0
 fi
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/AkbarStoreVPN/scriptvps/main/ssr"
+IlhamStoree="raw.githubusercontent.com/IlhamStoree/Ilham/main/ssr"
 
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
