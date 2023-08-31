@@ -61,7 +61,7 @@ echo "Script Already Installed"
 exit 0
 fi
 mkdir /var/lib/IlhamStore;
-echo "IP=" >> /var/lib/akbarstorevpn/ipvps.conf
+echo "IP=" >> /var/lib/IlhamStoree/ipvps.conf
 wget https://${IlhamStoree}/cf.sh && chmod +x cf.sh && ./cf.sh
 #install ssh ovpn
 wget https://${IlhamStoree}/ssh-vpn.sh && chmod +x ssh-vpn.sh && screen -S ssh-vpn ./ssh-vpn.sh
