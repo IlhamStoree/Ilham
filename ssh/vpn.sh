@@ -28,7 +28,7 @@ fi
 # By Akbar Maulana
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/AkbarStoreVPN/scriptvps/main/ssh"
+IlhamStoree="raw.githubusercontent.com/IlhamStoree/Ilham/main/ssh"
 
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
