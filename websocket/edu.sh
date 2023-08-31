@@ -27,7 +27,7 @@ echo -e "${NC}${LIGHT}Telegram : https://t.me/Akbar218"
 exit 0
 fi
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/AkbarStoreVPN/scriptvps/main/websocket"
+IlhamStoree="raw.githubusercontent.com/Ilham/Ilham/main/websocket"
 
 # Getting Proxy Template
 wget -q -O /usr/local/bin/websocket https://${akbarvpn}/websocket.py
