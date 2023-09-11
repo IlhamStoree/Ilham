@@ -20,7 +20,7 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-wget http://raw.githubusercontent.com/IlhamStoree/Ilham/main/ssh"
+IlhamStore="http://raw.githubusercontent.com/IlhamStoree/Ilham/main/ssh"
 # Link Hosting Kalian Untuk Sstp
 IlhamStoree="raw.githubusercontent.com/IlhamStoree/Ilham/main/sstp"
 # Link Hosting Kalian Untuk Ssr
